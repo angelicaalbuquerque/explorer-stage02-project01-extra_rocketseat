@@ -1,4 +1,5 @@
 /* color variables */
+
 :root {
   --text-color-primary: #828282;
   --text-color-secondary: #3f3d56;
@@ -7,6 +8,7 @@
 }
 
 /* general */
+
 * {
   margin: 0;
   padding: 0;
@@ -44,6 +46,7 @@ p + p {
 }
 
 /* main */
+
 #hero {
   padding-top: 64px;
   width: 626px;
@@ -51,3 +54,25 @@ p + p {
 }
 
 /* footer */
+
+#line {
+  width: 391px;
+  border: 1px solid var(--gray);
+  margin: 0 auto 16px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a + a {
+  margin-left: 42px;
+}
+
+#wave {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+}
