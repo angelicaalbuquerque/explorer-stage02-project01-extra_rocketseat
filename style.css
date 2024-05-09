@@ -1,0 +1,53 @@
+/* color variables */
+:root {
+  --text-color-primary: #828282;
+  --text-color-secondary: #3f3d56;
+  --text-color-highlight: #ee24ff;
+  --gray: #eceff2;
+}
+
+/* general */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  font-size: 15px;
+  color: var(--text-color-primary);
+}
+
+h1 {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  margin: 32px 0 16px;
+  color: var(--text-color-secondary);
+}
+
+h1 span {
+  color: var(--text-color-highlight);
+  font-weight: 700;
+}
+
+span,
+a {
+  color: var(--text-color-secondary);
+  font-weight: bold;
+}
+
+p + p {
+  margin-top: 32px;
+}
+
+/* main */
+#hero {
+  padding-top: 64px;
+  width: 626px;
+  margin: 0 auto 64px auto;
+}
+
+/* footer */
