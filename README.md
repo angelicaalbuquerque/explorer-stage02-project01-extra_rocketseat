@@ -14,7 +14,7 @@
 <p align="center">
   <img alt="Made by Angélica Albuquerque" src="https://img.shields.io/badge/made%20by-Angélica Albuquerque-%20?color=EE24FF">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/angelicaalbuquerque/explorer-project-01_rocketseat?color=EE24FF">
-  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/explorer-project-01_rocketseat?color=EE24FF">
+  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/angelicaalbuquerque/explorer-stage02-project01-extra_rocketseat?color=EE24FF">
 </p>
 
 <p align="center">
